@@ -1,0 +1,42 @@
+{
+  "name": "free-music-archive",
+  "version": "1.0.0",
+  "description": "module for accessing the free music archive API",
+  "main": "index.js",
+  "dependencies": {
+    "request": "^2.57.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meandavejustice/free-music-archive.git"
+  },
+  "keywords": [
+    "freemusicarchive",
+    "free",
+    "music",
+    "archive",
+    "api",
+    "open",
+    "open",
+    "music",
+    "creative",
+    "commons",
+    "mit",
+    "wfmu",
+    "nyc",
+    "radio",
+    "open",
+    "access",
+    "audio"
+  ],
+  "author": "meandave",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/meandavejustice/free-music-archive/issues"
+  },
+  "homepage": "https://github.com/meandavejustice/free-music-archive#readme"
+}
